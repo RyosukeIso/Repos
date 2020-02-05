@@ -1,0 +1,10 @@
+*.lock
+*.db
+*.exe
+*.dll
+*.pdb
+.dtbcache
+.suo
+.vs
+Debug/
+obj/
