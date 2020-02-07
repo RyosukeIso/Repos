@@ -1,20 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace sample1
-{/// <summary>
-/// 以下の表は、各月の日数です。この表を参考にして、入力した月の日数を表示するプログラムを作成しなさい。
-/// </summary>
+{
+    /// <summary>
+    /// 以下の表は、各月の日数です。この表を参考にして、入力した月の日数を表示するプログラムを作成しなさい。
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("月（１～12）を入力して下さい:");
+            Console.Write("月（１～12）を入力して下さい: ");
             int a = int.Parse(Console.ReadLine());
-            string d = "";
+            string d;
             switch (a)
             {
                 case 2:
