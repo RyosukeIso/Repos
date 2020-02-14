@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kitako4-13", "kitako4-13\kitako4-13.csproj", "{D093C205-CF20-4464-BB3E-794D8E7563AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D093C205-CF20-4464-BB3E-794D8E7563AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D093C205-CF20-4464-BB3E-794D8E7563AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D093C205-CF20-4464-BB3E-794D8E7563AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D093C205-CF20-4464-BB3E-794D8E7563AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {293A1D11-EB2F-4A5E-875E-16830770F0BB}
+	EndGlobalSection
+EndGlobal
